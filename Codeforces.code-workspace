@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Codechef"
+		},
+		{
+			"path": "../../../Web Dev/Html Brginner"
+		},
+		{
+			"path": "../../../Web Dev/Html Beginner"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Html Beginner",
+		"liveServer.settings.port": 5501
+	}
+}
